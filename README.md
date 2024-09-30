@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AMNAMENGRANI
-- I complete my masters in Islamic studies and Arabics currently i am doing Software engineering from Sindh Madrasatul Islam University.
+- I completed my Masters in Islamic studies and Arabics currently i am doing Software engineering from Sindh Madrasatul Islam University.
 - 👀 I’m interested in technology and logics.
 - 
 - 🌱 I’m currently learning C basic,Html,Css, Typescript,Sql,Oops.
